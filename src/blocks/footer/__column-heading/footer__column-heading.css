@@ -1,0 +1,10 @@
+.footer__column-heading{
+    display: flex;
+    margin-top: 0;
+    margin-bottom:20px;
+    padding: 0;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}

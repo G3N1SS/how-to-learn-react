@@ -1,0 +1,13 @@
+.header__subtitle-link{
+    font-weight: 400;
+}
+
+.header__subtitle-link::after{
+    content: '→';
+    margin: 0 5px 0;
+    transition: all .7s;
+}
+
+.header__subtitle-link:hover::after{
+    margin: 0 10px 0;
+}
