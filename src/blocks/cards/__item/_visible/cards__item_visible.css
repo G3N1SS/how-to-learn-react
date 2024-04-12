@@ -1,0 +1,19 @@
+.cards__item_visible:nth-of-type(1){
+    animation: appearing .9s ease-in-out forwards;
+}
+
+.cards__item_visible:nth-of-type(2){
+    animation: appearing 1.2s ease-in-out forwards;
+}
+
+.cards__item_visible:nth-of-type(3){
+    animation: appearing 1.5s ease-in-out forwards;
+}
+
+.cards__item_visible:nth-of-type(4){
+    animation: appearing 1.8s ease-in-out forwards;
+}
+
+.cards__item_visible:nth-of-type(5){
+    animation: appearing 2.1s ease-in-out forwards;
+}

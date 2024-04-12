@@ -1,10 +1,12 @@
 @import url(./vendor/normalize.css);
+@import url(./vendor/animations.css);
 @import url(./vendor/font.css);
 @import url(./blocks/body/body.css);
 @import url(./blocks/cards/cards.css);
 @import url(./blocks/cards/__description/cards__description.css);
 @import url(./blocks/cards/__image/cards__image.css);
 @import url(./blocks/cards/__item/cards__item.css);
+@import url(./blocks/cards/__item/_visible/cards__item_visible.css);
 @import url(./blocks/cards/__title/cards__title.css);
 @import url(./blocks/description/description.css);
 @import url(./blocks/digits/digits.css);

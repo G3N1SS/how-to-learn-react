@@ -6,4 +6,6 @@
     padding:0;
     list-style: none;
     width: 240px;
+    opacity: 0;
+    transition: all .9s;
 }
