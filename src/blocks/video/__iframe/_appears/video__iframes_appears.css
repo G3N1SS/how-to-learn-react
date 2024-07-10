@@ -1,0 +1,7 @@
+.video__iframes_appears:first-of-type{
+    animation: appearingFromLeftSide 1.3s ease-out forwards;
+}
+
+.video__iframes_appears:last-of-type{
+    animation: appearingFromRightSide 1.3s ease-out forwards;
+}

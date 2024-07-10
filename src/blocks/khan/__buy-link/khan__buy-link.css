@@ -8,3 +8,13 @@
     color: #2f80ed;
     align-self: flex-start;
 }
+
+.khan__buy-link::after{
+    content: '→';
+    transition: all .3s;
+    margin: 0 15px 0 5px;
+}
+
+.khan__buy-link:hover::after{
+    margin: 0 5px 0 15px;
+}

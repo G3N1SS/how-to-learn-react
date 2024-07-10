@@ -7,3 +7,13 @@
     font-size: 36px;
     font-weight: normal;
 }
+
+.feynman__link::after{
+    content: '→';
+    transition: all .3s;
+    margin: 0 15px 0 5px;
+}
+
+.feynman__link:hover::after{
+    margin: 0 5px 0 15px;
+}
